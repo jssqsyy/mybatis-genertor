@@ -1,1 +1,1 @@
-# mybatis-genertor
+测试版本为mysql-8.0.20
